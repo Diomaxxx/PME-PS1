@@ -42,6 +42,6 @@ Tarea 6 Gestion de Proyectos
 
 Tarea 7 Pagina Web para un Negocio:
 
--Pagina Web: https://diomaxxx.github.io/guns/public/
+-Pagina Web: https://gunsstore0620.web.app/
 
 -TROIS: https://drive.google.com/drive/folders/16wqfE1BCafEPhlW3T3e0DG4oIycUQpgO?usp=sharing
