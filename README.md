@@ -26,7 +26,7 @@ Tarea 4 Aplicación Web para Registro de Usuario con validación de Google:
 
 -Página Web : https://diomaxxx.github.io/login/public/
 
--Archivo: https://github.com/Diomaxxx/login
+-Archivo: https://drive.google.com/file/d/1bXOg8_CD8gZMOsrUjxYALcZV2-CzuxrC/view?usp=sharing
 
 Tarea 5 (Grupal) Stocker - Proyecto Emprendedor
 
