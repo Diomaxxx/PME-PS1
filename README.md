@@ -24,7 +24,7 @@ Tarea 3 Aplicación de Cifrado y Descifrado para 2, 4, 16 y 32 bits:
 
 Tarea 4 Aplicación Web para Registro de Usuario con validación de Google:
 
--Página Web : https://diomaxxx.github.io/login/public/
+-Página Web : https://pds1-4946f.web.app/index.html
 
 -Archivo: https://drive.google.com/file/d/1bXOg8_CD8gZMOsrUjxYALcZV2-CzuxrC/view?usp=sharing
 
